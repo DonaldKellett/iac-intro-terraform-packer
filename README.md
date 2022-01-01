@@ -1,2 +1,7 @@
 # iac-intro-terraform-packer
-Assets for the "Introduction to Infrastructure as Code with Terraform and Packer" article on Dev.to
+
+Assets for the "Introduction to Infrastructure as Code with Terraform and Packer" article on Dev.to. Currently a work-in-progress
+
+## License
+
+[MIT](./LICENSE)
